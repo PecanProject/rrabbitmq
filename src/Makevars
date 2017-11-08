@@ -1,0 +1,2 @@
+C=clang
+PKG_LIBS = -lrabbitmq
